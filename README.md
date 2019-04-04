@@ -1,4 +1,4 @@
-# **Line Draw**  *v0.0.1 - Unreleased*
+# **Line Draw**  *v0.0.1 - Alpha*
 ## **First C++ Program & Initial Test For OpenFrameworks**
 #### *Move your mouse around, it will effect the movement of the line*
 
