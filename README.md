@@ -17,4 +17,4 @@ The Visual Studio folder has the 3 main files to change in a new OpenFrameworks 
 <br>*I'm guessing it should work just fine on any OS and Visual Studio / MSYS2 / GCC / etc. compilers*
 ______________________________
 
-## Thanks for checking out pxlTextGenerator!
+### Thanks for checking out my little test!
