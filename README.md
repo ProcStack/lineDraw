@@ -10,6 +10,8 @@ So, this is my first compiled program!
 
 I'm storing some point positions, then drawing multi colored triangles between neighboring points to create a trippy trail!
 
+[![Line Draw Video](http://metal-asylum.net/openFramework/lineDrawTestVid_4-4-19_Thumb.png)](https://www.youtube.com/watch?v=uKgBfPqVjO8)
+
 ______________________________
 
 The Visual Studio folder has the 3 main files to change in a new OpenFrameworks project.
