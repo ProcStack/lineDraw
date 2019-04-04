@@ -12,4 +12,8 @@ I'm storing some point positions, then drawing multi colored triangles between n
 
 ______________________________
 
+The Visual Studio folder has the 3 main files to change in a new OpenFrameworks project.
+Just replacing those files on a new project should build just fine!
+______________________________
+
 ## Thanks for checking out pxlTextGenerator!
